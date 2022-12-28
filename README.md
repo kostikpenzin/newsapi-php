@@ -1,4 +1,12 @@
 ## NewsAPI-PHP
+
+[![Latest Stable Version](https://poser.pugx.org/kostikpenzin/newsapi-php/v/stable)](https://packagist.org/packages/kostikpenzin/newsapi-php)
+[![Total Downloads](https://poser.pugx.org/kostikpenzin/newsapi-php/downloads)](https://packagist.org/packages/kostikpenzin/newsapi-php)
+[![Latest Unstable Version](https://poser.pugx.org/kostikpenzin/newsapi-php/v/unstable)](https://packagist.org/packages/kostikpenzin/newsapi-php)
+[![License](https://poser.pugx.org/kostikpenzin/newsapi-php/license)](https://packagist.org/packages/kostikpenzin/newsapi-php)
+[![Monthly Downloads](https://poser.pugx.org/kostikpenzin/newsapi-php/d/monthly)](https://packagist.org/packages/kostikpenzin/newsapi-php)
+
+
 A PHP client for the [News API](https://newsapi.org/docs/get-started).
 
 ### Installation
