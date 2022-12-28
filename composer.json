@@ -1,0 +1,25 @@
+{
+    "name": "kostikpenzin/newsapi",
+    "description": "A PHP client for NewsApi",
+    "keywords": ["NewsApi"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Cobhams",
+            "email": "jcobhams@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "guzzlehttp/guzzle": "~7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kostikpenzin\\NewsApi\\": "src/"
+        }
+    }
+}
